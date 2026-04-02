@@ -1,0 +1,9 @@
+/*
+  App.css — Químicos & Soap
+  Este archivo se deja vacío intencionalmente.
+  Todo el estilo del proyecto se maneja con Tailwind CSS (index.css).
+  Los estilos de la plantilla de Vite (#root, .logo, .card…) han sido
+  eliminados porque forzaban max-width, padding y text-align: center
+  sobre #root, lo que rompía el Navbar, el Dashboard y el layout general.
+*/
+
