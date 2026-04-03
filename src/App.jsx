@@ -5,7 +5,7 @@ import ProtectedRoute from "./components/ProtectedRoute";
 import Home from "./pages/Home";
 import Productos from "./pages/Productos";
 import Contacto from "./pages/Contacto";
-import Informacion from "./pages/Informacion";
+import Informacion from "./pages/informacion";
 import Login from "./pages/Login";
 import Dashboard from "./pages/Dashboard";
 
